@@ -30,7 +30,7 @@
 
 ## Getting the failed link to work for Search Engine Optimization
 
-* In line 29, miss was the id= attribute. All I needed to do was add it to the line to match with where I want the user to be directed to on the page.
+* In line 29, missing was the id= attribute. All I needed to do was add it to the line to match with where I want the user to be directed to on the page.
 
 ![id= attribute added line 29](./Assets/Project-3.png)
 
